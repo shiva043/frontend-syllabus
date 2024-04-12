@@ -1,5 +1,6 @@
-Learning Parth of forntend web development
+Learning Path of forntend web development
 1 HTML
 2 CSS
 3 JavaScript
 4 Frameworks
+5 Git and github [vesion control]
